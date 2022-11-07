@@ -1,7 +1,7 @@
 #!/bin/bash 
 #######################################################################################
 #Script Name    :Cluster_Monitor.bash
-#Description    :Send alert mail when cluster resource goes offline
+#Description    :Send alert mail when cluster resource goes offline for Solaris Cluster
 #Author         :Amarnath Laxmanrao Jamale
 #Email          :amarnathraje@gmail.com
 #License        :Thanos Approved
